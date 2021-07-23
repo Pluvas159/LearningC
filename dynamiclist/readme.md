@@ -1,3 +1,5 @@
+searching mines * with the help of a dynamic list in C
+
 # Example input
 
 ```
